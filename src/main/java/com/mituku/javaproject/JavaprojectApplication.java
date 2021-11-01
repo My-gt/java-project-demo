@@ -12,7 +12,10 @@ public class JavaprojectApplication {
 	@RequestMapping("/message")
 	public String welcome()
 	{
-		return "Hello World!!!! Learning Dockerizing Spring Boot";
+
+
+		return "Hello World!!!! Learning Jenkins!!!";
+
 	}
 
 	public static void main(String[] args) {
