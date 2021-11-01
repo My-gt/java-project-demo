@@ -12,7 +12,7 @@ public class JavaprojectApplication {
 	@RequestMapping("/message")
 	public String welcome()
 	{
-		return "Hello World!!!!";
+		return "Hello World!!!! Learning Dockerizing Spring Boot";
 	}
 
 	public static void main(String[] args) {
